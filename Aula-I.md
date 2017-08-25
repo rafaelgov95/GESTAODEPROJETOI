@@ -9,7 +9,7 @@
     * Frederick Taylor criou as tarefas.
     * Henry Gantt traço uma sequência de duração das tarefas.
         - Criou o Gráfico de Gantt ( é um recurso indispensavel na maioria dos softwares de gereciamento de projetos.)
-        - 
+    
 ## Segunda revolução industrial inserção de motor a combustão aumentando a produção de produtos forçando o aperfercionamento de gestão de projetos.
         - Empire State Building (Economia na construção) Utilizou a tecnica fast-track (Tarefas simultâneas)
             - Três mil e quinhentos homens e sete milhões de horas.

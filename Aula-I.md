@@ -8,4 +8,4 @@
     * Ai vem o gerente do Projeto, na revolução intrustrial.
     * Frederick Taylor criou as tarefas.
     * Henry Gantt traço uma sequência de duração das tarefas.
-        - Criou o Gráfico de Gantt
+        - Criou o Gráfico de Gantt ( é um recurso indispensavel na maioria dos softwares de gereciamento de projetos.)

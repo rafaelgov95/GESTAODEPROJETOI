@@ -22,3 +22,8 @@
         - Stakeholders "Pessoas Intereçadas no projeto como investidores"
         - PMI - Maior associação sem fins lucrativos do mundo para profissionais de gerenciamento de Projetos.
             - Padrões Globais 
+            - Um padrao e um conjuntos práticas altamente aplicadas, testadas e atualizadas por profissionais.
+            - PMBOK
+            - OPM3
+            - Standart for Program Management
+            - Standart for Portifolio Management

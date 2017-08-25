@@ -9,3 +9,15 @@
     * Frederick Taylor criou as tarefas.
     * Henry Gantt traço uma sequência de duração das tarefas.
         - Criou o Gráfico de Gantt ( é um recurso indispensavel na maioria dos softwares de gereciamento de projetos.)
+        - 
+    * Segunda revolução industrial inserção de motor a combustão aumentando a produção de produtos forçando o aperfercionamento de gestão de projetos.
+        - Empire State Building (Economia na construção) Utilizou a tecnica fast-track (Tarefas simultâneas)
+            - Três mil e quinhentos homens e sete milhões de horas.
+            - Projeto foi concluido antes.
+
+    * Terceira revoliução (Criação do Gerenciamento de Projeto e Padronização dos Projetos)
+        - PERT - projeto para verificar tempo minimo de criação de projeto.
+        - PMI -  Intrudução dos conceitos de Tempo, Custo e Qualidade.
+        - Stakeholders "Pessoas Intereçadas no projeto como investidores"
+        - PMI - Maior associação sem fins lucrativos do mundo para profissionais de gerenciamento de Projetos.
+            - 

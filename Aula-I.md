@@ -32,7 +32,10 @@
             - Primeiro da Carreira "CAPM" 
                 - Fazer exame de multiplas escolhas com 150 questoes
             - PMP 
-
+## Perguntas para projeto
+    Ter escopo limitado.
+    Ter recursos.
+    
 ## Curiosidade
     - Projeto significa do latim PROJECTUM 
     - Pro = "á frente"

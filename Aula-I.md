@@ -27,3 +27,15 @@
             - OPM3
             - Standart for Program Management
             - Standart for Portifolio Management
+## Certificações
+    * Para ter certificação provar que possui mais de 1500hras e curso superior e pagar inscrição.
+            - Primeiro da Carreira "CAPM" 
+                - Fazer exame de multiplas escolhas com 150 questoes
+            - PMP 
+
+## Curiosidade
+    - Projeto significa do latim PROJECTUM 
+    - Pro = "á frente"
+    - JACERE = "lançar"
+    - Fluxo, conograma, etc.
+    - Projeto e algo que vc lança a frente na linha do tempo para poder tomar as decições antecipadamente.

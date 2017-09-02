@@ -64,3 +64,15 @@
         - Pessoas  
         - Processos
         - Técnologias
+ ## Tipos de Organizações
+      - é importante conhecer os tipos mais comuns de estruturas.
+      - Estrutura Funcional
+         - é a mais comun de estrutura cada funcionario tem um superior claro.
+      - Estrutura Projetizada 
+         - essa organizaço tem maior parte da equipe  orientaa a projetos eo gerente de projetos tem autonomia e autoriadade               total sobre a equipe
+      - Estrutura Matricial
+         - Essa estrutura tem de potencializar oque há de melhor em ambas as estruturas (Funcional ou Projetizada). Os membros da equipe se reportam a dois chefes.
+         - Estrutura forte e Estrtura Fraca.
+ ## Ciclo de vida do Projeto
+      - Ciclo de vida do projeto muitas vezes também é chamado de metodologia.
+      - DEsigner -> Codigo -> Teste -> Inst. -> Delivery 

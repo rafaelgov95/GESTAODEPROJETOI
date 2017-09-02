@@ -75,4 +75,7 @@
          - Estrutura forte e Estrtura Fraca.
  ## Ciclo de vida do Projeto
       - Ciclo de vida do projeto muitas vezes também é chamado de metodologia.
-      - DEsigner -> Codigo -> Teste -> Inst. -> Delivery 
+      - DEsigner -> Codigo -> Teste -> Inst. -> Delivery      
+      - Monitoramento e controle sempre esta sendo executado em todas as etapas.
+ ## Ciclo de vida do produto
+      - Tudo que envolve cada etapa.

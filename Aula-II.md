@@ -37,17 +37,30 @@
           
   ## O que é um Programa
        - Conjuntos de elementos e atividades realizam um objetivo.
-       - Para o gerenciamento de projetos, um programa é:
-         - Um grupo de projetos relacionados, subprogramas ou atividaes do projeto.
+       - Para o gerenciamento de projetos, um programa é
+       - Um grupo de projetos relacionados, subprogramas ou atividaes do projeto.
          - Progeto de Avalicao de Competências.
          - Projeto de capacitação
          - Projeto de clima organizacional
          - Projeto de implementação de Plataforma EAD
           
- ## o que é Prortfolio.
+ ## O que é Prortfolio.
  
  ## O que é Patrocinador (Sponsor).
        - Pode manter o projeto de alguma forma.
- ## Oque e parte Interessada.
-       - Podem ser pessoas e organizaçes patrocinadores, pessoas que estão ativiamente no projeto, ou interreses possam ser afetados, exercem influência no projeto.
-       
+ ## O que e parte Interessada.
+       - Podem ser pessoas e organizaçes patrocinadores, pessoas que estão ativiamente no projeto, ou interreses possam ser              afetados, exercem influência no projeto.
+ ## Grupo do Projeto ( Equipe de Projeto)
+      - Especialistas
+      - ETC
+ ## Escritório de Gerenciamento de Projetos (EGP ou PMO)
+      - Funcao de Apio
+        - Treinamento
+      - Funcao de Controle
+        - Formuláos
+      - Funcao de Gerenciamento
+        - Realização do objetivo do projeto
+      - Três pilares
+        - Pessoas  
+        - Processos
+        - Técnologias

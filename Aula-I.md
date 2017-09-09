@@ -16,7 +16,7 @@
             - Projeto foi concluido antes.
 
     
-## Terceira revoliução (Criação do Gerenciamento de Projeto e Padronização dos Projetos)
+## Terceira revolução (Criação do Gerenciamento de Projeto e Padronização dos Projetos)
         - PERT - projeto para verificar tempo minimo de criação de projeto.
         - PMI -  Intrudução dos conceitos de Tempo, Custo e Qualidade.
         - Stakeholders "Pessoas Intereçadas no projeto como investidores"

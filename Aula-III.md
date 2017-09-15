@@ -13,4 +13,8 @@
 ## Fatores ambientas da empresa
 ## Ativos de processo organizacionais
 
-#
+# Processo
+## Entradas
+## Ferramentas e Técnicas
+## Saídas
+

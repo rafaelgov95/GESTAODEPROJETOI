@@ -16,3 +16,18 @@
 - Saídas
 
 # EAP
+
+# Gerenciamento da Integração do Projeto
+- Gerenciamento de Integração do Projeto está comprometido com cinco processos:
+  - Desenvolver o termo de Aberturado Projeto;
+  - Desenvolver o Plano de Gerenciamento do Projeto
+  - Orientar e gerenciar o Trabalho do Projeto
+  
+- Integraço e junção de todos processos.
+  - Escopo
+  - Tempo
+  - Projeto
+  - Custo do Projeto
+  - Qualidade da Projeto
+  - Recursos
+- Esta área de conhecimento se refere a identificação, definição, combinação, unificação e coordenação de todos os aspectods do projeto e é altamente interativo

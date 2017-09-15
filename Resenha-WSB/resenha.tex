@@ -10,9 +10,8 @@
 	basic/.style  = {draw, text width=4cm, drop shadow, font=\sffamily, rectangle},
 	root/.style   = {basic, rounded corners=2pt, thin, align=center,
 		fill=green!30},
-	level 2/.style = {basic, rounded corners=6pt, thin,align=center, fill=green!60,
-		text width=8em},
-	level 3/.style = {basic, thin, align=left, fill=pink!60, text width=6.5em}
+	level 2/.style = {basic, rounded corners=6pt, thin,align=center, fill=green!60, text width=8em},
+	level 3/.style = {basic, thin, align=left, fill=pink!60, text width=6.5em,minimum height=1em}
 }
 
 \title{Resenha - Work Breakdown Structure}
@@ -32,13 +31,11 @@ Segundo definições do Guia PMBOK 5ªEdição, página 125;
 \end{quote}
 
 Ou sejá o processo  do desenvolvimento/evolução de um projeto deve ser tratado como um conjunto de subprojetos menores tornando assim esses mesmo mais fáceis de ser gerenciados, já que possuem escopos menores para ser alcançados.
-O trabalho planejado é contido dentro dos componentes de nível mais baixo da EAP, que são chamados de pacotes de trabalho.Um pacote de trabalho pode ser usado para agrupar as atividades onde o trabalho é agendado, tem seu custo estimado, monitorado e controlado.
-
-Para alcançar seus objetivos os dados são separados em Entradas, Ferramentas e Técnicas, Sáidas.
+O trabalho planejado é contido dentro dos componentes de nível mais baixo da EAP, que são chamados de pacotes de trabalho.Um pacote de trabalho pode ser usado para agrupar as atividades onde o trabalho é agendado, tem seu custo estimado, monitorado e controlado. Para alcançar seus objetivos os dados são separados em Entradas, Ferramentas e Técnicas, Sáidas.
 
 \smartdiagramset{
 	module x sep=4.8,
-	back arrow distance=2.75,
+	back arrow distance=1.75,
 	text width=3.8cm,
 	back arrow disabled=true,
 	additions={
@@ -81,10 +78,7 @@ Para alcançar seus objetivos os dados são separados em Entradas, Ferramentas e
 	\begin{itemize}
 
 		\item
-		Decomposição.
-		
-		\item
-		Opinião especializada.
+		Decomposição e Opinião especializada.
 		
 		\end{itemize}
 
@@ -104,9 +98,9 @@ Sua EAP pode ter tantos níveis quanto você quiser. Por uma questão visual e d
 
 Como exemplo será demostrado a construção de uma EAP de um equipamento IoT - \textit{Internet of Things} ou como é conhecida "Internet das Coisas", onde este possua sensores conectados, enviando informações sobre condições ambientais como estado do solo do ar e de iluminação, esses dados são encaminhados para um servidor onde são feito o tratamento/conversão dos dados em informações, que posteriormente serão recuperados por uma aplicação, está EAP resumida séria da seguinte maneira;
 
-\vspace{0.5cm}
+\vspace{0.2cm}
 \begin{tikzpicture}[
-level 1/.style={sibling distance=50mm},
+level 1/.style={sibling distance=40mm},
 edge from parent/.style={->,draw},
 >=latex]
 
@@ -128,7 +122,7 @@ child {node[level 2] (c3) {Back-End}};
 \node [below of = c22] (c23) {Diagnóstico};
 \node [below of = c23] (c24) {Propagandas};
 
-\node [below of = c3, xshift=15pt] (c31) {Autenticação};
+\node [below of = c3, xshift=15	pt] (c31) {Autenticação};
 \node [below of = c31] (c32) {ACLs};
 \node [below of = c32] (c33) {Rotas};
 \node [below of = c33] (c34) {RNA};

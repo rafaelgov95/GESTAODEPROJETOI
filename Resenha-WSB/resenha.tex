@@ -4,6 +4,7 @@
 \usepackage[brazilian]{babel}
 \usepackage{verbatim}	
 \usepackage{tikz}
+\usepackage{smartdiagram}
 \usetikzlibrary{arrows,shapes,positioning,shadows,trees}
 \tikzset{
 	basic/.style  = {draw, text width=4cm, drop shadow, font=\sffamily, rectangle},
@@ -22,7 +23,7 @@
 \begin{document}
 
 \maketitle
-EAP "Estrutura Analítica de Projetos", também conhecida como WBS - "\textit{Work Breakdown Structure}", trata-se de uma técnica de representação gráfica que representa o projeto como um todo, assim EAP não é apenas uma ferramenta, ela tem o papel de gerenciamento do projeto na qual se aplica a subdivisão das entregas e do trabalho.
+ WBS - "\textit{Work Breakdown Structure}",também conhecida como EAP - "Estrutura Analítica de Projetos",  trata-se de uma técnica de representação gráfica que representa o projeto como um todo, assim EAP não é apenas uma ferramenta, ela tem o papel de gerenciamento do projeto na qual se aplica a subdivisão das entregas e do trabalho.
  
 Segundo definições do Guia PMBOK 5ªEdição, página 125;
 
@@ -31,59 +32,79 @@ Segundo definições do Guia PMBOK 5ªEdição, página 125;
 \end{quote}
 
 Ou sejá o processo  do desenvolvimento/evolução de um projeto deve ser tratado como um conjunto de subprojetos menores tornando assim esses mesmo mais fáceis de ser gerenciados, já que possuem escopos menores para ser alcançados.
-Para alcançar seus objetivos os dados são separados em Entradas, Ferramentas e Técnicas, Sáidas.
-O trabalho planejado é contido dentro dos componentes de nível mais baixo da EAP, que são chamados
-de pacotes de trabalho.Um pacote de trabalho pode ser usado para agrupar as atividades onde o trabalho
-é agendado, tem seu custo estimado, monitorado e controlado.
+O trabalho planejado é contido dentro dos componentes de nível mais baixo da EAP, que são chamados de pacotes de trabalho.Um pacote de trabalho pode ser usado para agrupar as atividades onde o trabalho é agendado, tem seu custo estimado, monitorado e controlado.
 
+Para alcançar seus objetivos os dados são separados em Entradas, Ferramentas e Técnicas, Sáidas.
+
+\smartdiagramset{
+	module x sep=4.8,
+	back arrow distance=2.75,
+	text width=3.8cm,
+	back arrow disabled=true,
+	additions={
+		additional item width=4cm,
+		additional item offset=0.85cm,
+		additional item border color=red,
+		additional connections disabled=false,
+		additional arrow color=red,
+		additional arrow tip=stealth,
+		additional arrow line width=3pt,
+		additional arrow style=]-latex’,
+	}
+}
+
+
+\begin{center}
+	\smartdiagram[flow diagram:horizontal]{Entrada,Ferramenta e Técnicas, Saída}
+\end{center}
 \textbf{As entradas são divididas em;}
+
 	\begin{itemize}
-		\begin{itemize}
-		\item
-		Plano de gerenciamento do escopo
+
+		\item Plano de gerenciamento do escopo.
 		
 		\item
-		Especificação do escopo do projeto
+		Especificação do escopo do projeto.
 		
 		\item
-		Documentação dos requisitos
+		Documentação dos requisitos.
 		
 		\item
-		Fatores ambientais da empresa
+		Fatores ambientais da empresa.
 		
 		\item
-		Ativos de processos organizacionais
-	\end{itemize}
+		Ativos de processos organizacionais.
+
 	\end{itemize}
 
 \textbf{As ferramentas e técnicas são divididas em;}
 	\begin{itemize}
-	\begin{itemize}
+
 		\item
-		Decomposição
+		Decomposição.
 		
 		\item
-		Opinião especializada
+		Opinião especializada.
 		
 		\end{itemize}
-	\end{itemize}
+
 
 \textbf{As saídas são divididas em;}
 	\begin{itemize}
-			\begin{itemize}
+
 		\item
-		Linha de base do escopo
+		Linha de base do escopo.
 		
 		\item
-Atualizações nos documentos do projeto
-		\end{itemize}
+Atualizações nos documentos do projeto.
+
 	\end{itemize}
 
 Sua EAP pode ter tantos níveis quanto você quiser. Por uma questão visual e de impressão é razoável que cada nível não seja decomposto em mais do que 9 itens e cada página representade até 3 níveis no seu plano de projetos, mais do que isto fica difícil a visualização.
 
 Como exemplo será demostrado a construção de uma EAP de um equipamento IoT - \textit{Internet of Things} ou como é conhecida "Internet das Coisas", onde este possua sensores conectados, enviando informações sobre condições ambientais como estado do solo do ar e de iluminação, esses dados são encaminhados para um servidor onde são feito o tratamento/conversão dos dados em informações, que posteriormente serão recuperados por uma aplicação, está EAP resumida séria da seguinte maneira;
 
-\vspace{10}
+\vspace{0.5cm}
 \begin{tikzpicture}[
 level 1/.style={sibling distance=50mm},
 edge from parent/.style={->,draw},

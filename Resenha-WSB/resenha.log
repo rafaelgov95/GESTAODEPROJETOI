@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.31)  15 SEP 2017 02:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.31)  15 SEP 2017 17:51
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -677,6 +677,208 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
+(/usr/share/texlive/texmf-dist/tex/latex/smartdiagram/smartdiagram.sty
+Package: smartdiagram 2016/12/23 v0.3b Automatic creation of smart diagrams fro
+m lists of items.
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count108
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/11/21 v6760 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/11/21 v6760 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/06/13 v6596 L3 Bootstrap code
+L3 Module: l3names 2016/10/13 v6722 L3 Namespace for primitives
+L3 Module: l3basics 2016/09/01 v6696 L3 Basic definitions
+L3 Module: l3expan 2016/08/19 v6684 L3 Argument expansion
+L3 Module: l3tl 2016/08/19 v6692 L3 Token lists
+L3 Module: l3str 2016/08/19 v6692 L3 Strings
+L3 Module: l3seq 2016/08/19 v6685 L3 Sequences and stacks
+L3 Module: l3int 2016/09/07 v6700 L3 Integers
+\c_max_int=\count109
+\l_tmpa_int=\count110
+\l_tmpb_int=\count111
+\g_tmpa_int=\count112
+\g_tmpb_int=\count113
+L3 Module: l3quark 2016/08/19 v6685 L3 Quarks
+L3 Module: l3prg 2016/08/18 v6679 L3 Control structures
+\g__prg_map_int=\count114
+L3 Module: l3clist 2016/08/19 v6685 L3 Comma separated lists
+L3 Module: l3token 2016/09/01 v6695 L3 Experimental token manipulation
+L3 Module: l3prop 2016/08/19 v6685 L3 Property lists
+L3 Module: l3msg 2016/08/19 v6691 L3 Messages
+L3 Module: l3file 2016/08/19 v6685 L3 File and I/O operations
+\l_iow_line_count_int=\count115
+\l__iow_target_count_int=\count116
+\l__iow_current_line_int=\count117
+\l__iow_current_word_int=\count118
+\l__iow_current_indentation_int=\count119
+L3 Module: l3skip 2016/08/19 v6692 L3 Dimensions and skips
+\c_zero_dim=\dimen152
+\c_max_dim=\dimen153
+\l_tmpa_dim=\dimen154
+\l_tmpb_dim=\dimen155
+\g_tmpa_dim=\dimen156
+\g_tmpb_dim=\dimen157
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+L3 Module: l3keys 2016/09/21 v6711 L3 Key-value interfaces
+\l_keys_choice_int=\count120
+L3 Module: l3fp 2016/11/21 v6761 L3 Floating points
+\c__fp_leading_shift_int=\count121
+\c__fp_middle_shift_int=\count122
+\c__fp_trailing_shift_int=\count123
+\c__fp_big_leading_shift_int=\count124
+\c__fp_big_middle_shift_int=\count125
+\c__fp_big_trailing_shift_int=\count126
+\c__fp_Bigg_leading_shift_int=\count127
+\c__fp_Bigg_middle_shift_int=\count128
+\c__fp_Bigg_trailing_shift_int=\count129
+L3 Module: l3box 2016/08/19 v6685 L3 Experimental boxes
+\c_empty_box=\box37
+\l_tmpa_box=\box38
+\l_tmpb_box=\box39
+\g_tmpa_box=\box40
+\g_tmpb_box=\box41
+L3 Module: l3coffins 2016/08/19 v6685 L3 Coffin code layer
+\l__coffin_internal_box=\box42
+\l__coffin_internal_dim=\dimen158
+\l__coffin_offset_x_dim=\dimen159
+\l__coffin_offset_y_dim=\dimen160
+\l__coffin_x_dim=\dimen161
+\l__coffin_y_dim=\dimen162
+\l__coffin_x_prime_dim=\dimen163
+\l__coffin_y_prime_dim=\dimen164
+\c_empty_coffin=\box43
+\l__coffin_aligned_coffin=\box44
+\l__coffin_aligned_internal_coffin=\box45
+\l_tmpa_coffin=\box46
+\l_tmpb_coffin=\box47
+\l__coffin_display_coffin=\box48
+\l__coffin_display_coord_coffin=\box49
+\l__coffin_display_pole_coffin=\box50
+\l__coffin_display_offset_dim=\dimen165
+\l__coffin_display_x_dim=\dimen166
+\l__coffin_display_y_dim=\dimen167
+L3 Module: l3color 2016/06/13 v6596 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/08/19 v6688 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen168
+\l__box_bottom_dim=\dimen169
+\l__box_left_dim=\dimen170
+\l__box_right_dim=\dimen171
+\l__box_top_new_dim=\dimen172
+\l__box_bottom_new_dim=\dimen173
+\l__box_left_new_dim=\dimen174
+\l__box_right_new_dim=\dimen175
+\l__box_internal_box=\box51
+\l__coffin_bounding_shift_dim=\dimen176
+\l__coffin_left_corner_dim=\dimen177
+\l__coffin_right_corner_dim=\dimen178
+\l__coffin_bottom_corner_dim=\dimen179
+\l__coffin_top_corner_dim=\dimen180
+\l__coffin_scaled_total_height_dim=\dimen181
+\l__coffin_scaled_width_dim=\dimen182
+L3 Module: l3luatex 2016/08/18 v6679 L3 Experimental LuaTeX-specific functions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2016/08/18 v6679 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count130
+\l__driver_tmp_box=\box52
+))
+Package: xparse 2016/11/21 v6760 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count131
+\l__xparse_m_args_int=\count132
+\l__xparse_mandatory_args_int=\count133
+\l__xparse_processor_int=\count134
+\l__xparse_v_nesting_int=\count135
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count136
+\decimalpart=\count137
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
+\pgf@layerbox@background=\box53
+\pgf@layerboxsaved@background=\box54
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+\pgf@layerbox@smart diagram arrow back=\box55
+\pgf@layerboxsaved@smart diagram arrow back=\box56
+
+(/usr/share/texlive/texmf-dist/tex/latex/smartdiagram/smartdiagramlibrarycore.d
+efinitions.code.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \smartdiagramset with sig. 'm' on line 262.
+.................................................
+)
+(/usr/share/texlive/texmf-dist/tex/latex/smartdiagram/smartdiagramlibrarycore.s
+tyles.code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/smartdiagram/smartdiagramlibrarycore.c
+ommands.code.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \smartdiagram with sig. 'r[] m' on line 244.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \smartdiagramanimated with sig. 'r[] m' on line 487.
+.................................................
+))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
@@ -684,7 +886,7 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
 tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen152
+\arrowsize=\dimen183
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibraryshapes.code.tex
@@ -709,22 +911,6 @@ s.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.symbols.code.tex
-File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
-s.symbols.code.tex
-File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.arrows.code.tex
-File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
-s.arrows.code.tex
-File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibraryshapes.callouts.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
 s.callouts.code.tex))
@@ -737,74 +923,62 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 s.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 
-\pgfnodepartlowerbox=\box37
-\pgfnodeparttwobox=\box38
-\pgfnodepartthreebox=\box39
-\pgfnodepartfourbox=\box40
-\pgfnodeparttwentybox=\box41
-\pgfnodepartnineteenbox=\box42
-\pgfnodeparteighteenbox=\box43
-\pgfnodepartseventeenbox=\box44
-\pgfnodepartsixteenbox=\box45
-\pgfnodepartfifteenbox=\box46
-\pgfnodepartfourteenbox=\box47
-\pgfnodepartthirteenbox=\box48
-\pgfnodeparttwelvebox=\box49
-\pgfnodepartelevenbox=\box50
-\pgfnodeparttenbox=\box51
-\pgfnodepartninebox=\box52
-\pgfnodeparteightbox=\box53
-\pgfnodepartsevenbox=\box54
-\pgfnodepartsixbox=\box55
-\pgfnodepartfivebox=\box56
+\pgfnodepartlowerbox=\box57
+\pgfnodeparttwobox=\box58
+\pgfnodepartthreebox=\box59
+\pgfnodepartfourbox=\box60
+\pgfnodeparttwentybox=\box61
+\pgfnodepartnineteenbox=\box62
+\pgfnodeparteighteenbox=\box63
+\pgfnodepartseventeenbox=\box64
+\pgfnodepartsixteenbox=\box65
+\pgfnodepartfifteenbox=\box66
+\pgfnodepartfourteenbox=\box67
+\pgfnodepartthirteenbox=\box68
+\pgfnodeparttwelvebox=\box69
+\pgfnodepartelevenbox=\box70
+\pgfnodeparttenbox=\box71
+\pgfnodepartninebox=\box72
+\pgfnodeparteightbox=\box73
+\pgfnodepartsevenbox=\box74
+\pgfnodepartsixbox=\box75
+\pgfnodepartfivebox=\box76
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshadows.code.tex
-File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
-.tex
-File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytrees.code.tex
 File: tikzlibrarytrees.code.tex 2008/02/24 v3.0.1a (rcs-revision 1.2)
 ) (./resenha.aux)
 \openout1 = `resenha.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
  ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
-\scratchdimen=\dimen153
-\scratchbox=\box57
-\nofMPsegments=\count109
-\nofMParguments=\count110
+\scratchcounter=\count138
+\scratchdimen=\dimen184
+\scratchbox=\box77
+\nofMPsegments=\count139
+\nofMParguments=\count140
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count111
-\MPscratchDim=\dimen154
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen185
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
@@ -856,100 +1030,81 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 24.
+(Font)              <14.4> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
+(Font)              <7> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 27.
+(Font)              <12> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
+(Font)              <6> on input line 28.
 
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+! Package pgfkeys Error: I do not know the key '/smart diagram/additions', to w
+hich you passed ' additional item width=4cm, additional item offset=0.85cm, add
+itional item border color=red, additional connections disabled=false, additiona
+l arrow color=red, additional arrow tip=stealth, additional arrow line width=3p
+t, additional arrow style=]-latex’, ', and I am going to ignore it. Perhaps y
+ou misspelled it.
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 		\begin{itemize}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.54 }
+      
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.61 	\begin{itemize}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[1
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 114.
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.73 			\begin{itemize}
-                       
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \vskip 
-l.86 \vspace{10}
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 93.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (2.92981pt too wide) in paragraph at lines 102--102
+Overfull \hbox (2.92981pt too wide) in paragraph at lines 123--123
 [][][][]\T1/cmss/m/n/12 Armazenamento  
  []
 
 
-Overfull \hbox (20.54964pt too wide) in paragraph at lines 126--127
+Overfull \hbox (20.54964pt too wide) in paragraph at lines 147--148
 [][] 
  []
 
-[2] (./resenha.aux) ) 
+[2] [3] (./resenha.aux) ) 
 Here is how much of TeX's memory you used:
- 15049 strings out of 493013
- 320102 string characters out of 6135682
- 388067 words of memory out of 5000000
- 18290 multiletter control sequences out of 15000+600000
- 13350 words of font info for 34 fonts, out of 8000000 for 9000
+ 23165 strings out of 493013
+ 486722 string characters out of 6135682
+ 531533 words of memory out of 5000000
+ 26356 multiletter control sequences out of 15000+600000
+ 14119 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,82p,542b,962s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc
-}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on resenha.pdf (2 pages, 113709 bytes).
+ 55i,8n,77p,10439b,962s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1
+.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on resenha.pdf (3 pages, 136891 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,7 +6,7 @@
 
 ## Execução do projeto
 
-# PRocessos de Gerenciamento de proeto
+# Processos de Gerenciamento de proeto
 
 ## Termo de abertura de projeto
 ## Plano de gerenciamento de projeto

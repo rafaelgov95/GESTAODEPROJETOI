@@ -36,3 +36,13 @@
   - Partes Interessadas do Projeto
   
 - Esta área de conhecimento se refere a identificação, definição, combinação, unificação e coordenação de todos os aspectods do projeto e é altamente interativo
+
+# Gerenciamento do Escopo do Projeto
+- Esta área de conhecimento engloba seis processos;
+  - Planejar o gerenciamento do Escopo;
+  - Coletar Requsitos;
+  - Definir Escopo;
+  - Criar EAP;
+  - Verificar o Escopo;
+  - Controlar o Escopo;
+- 

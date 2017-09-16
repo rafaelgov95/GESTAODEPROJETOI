@@ -65,7 +65,12 @@
 - Dependendo da complexidade do projeto, estes processos podem precisar do envolvimento de mais de uma pessoa.
 
 # Gerenciamento de Qualidade
-# Gerenciamento de 
+
+# Gerenciamento dos Recursos Humanos do Projeto
+- Esta área de conhecimento  composta por quatro processos
+  - Desenvolver o Plano
+ - Envolve todos aspctos da gestão de pessoas e interação pessoal, incluindo liderança, coaching, lidar com conflitos, etc.
+ - Visa garantir que a equipe adequada estará preparada e motivada para realizar o trabalho do projeto.
 
 
 

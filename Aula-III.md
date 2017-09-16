@@ -55,11 +55,14 @@
 
 # Gerenciamento de Custo
 - Tudo que gira em torno dos custos.
-  - Planejar o Gerenciamento dos Custos
-  - Estimar os Custos
-  - Determinar o Orçamento
+  - Planejar o Gerenciamento dos Custos.
+  - Estimar os Custos.
+  - Determinar o Orçamento.
   - Controlar os Custos.
-
+- Estimativas e controle dos custos e do orçamento do projeto. 
+- vigilância sobre os custos
+- Assegurar que o projeto permaneça dentro do orçamento aprovado
+- Dependendo da complexidade do projeto, estes processos podem precisar do envolvimento de mais de uma pessoa.
 
 
 

@@ -45,4 +45,5 @@
   - Criar EAP;
   - Verificar o Escopo;
   - Controlar o Escopo;
-- 
+- Delimitação
+- Entrar somente o solicitado.

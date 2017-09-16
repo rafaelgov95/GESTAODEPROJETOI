@@ -49,7 +49,7 @@
  ## O que é Patrocinador (Sponsor).
        - Pode manter o projeto de alguma forma.
  ## O que e parte Interessada.
-       - Podem ser pessoas e organizaçes patrocinadores, pessoas que estão ativiamente no projeto, ou interreses possam ser              afetados, exercem influência no projeto.
+      - Podem ser pessoas e organizaçes patrocinadores, pessoas que estão ativiamente no projeto, ou interreses possam ser              afetados, exercem influência no projeto.
  ## Grupo do Projeto ( Equipe de Projeto)
       - Especialistas
       - ETC
@@ -57,25 +57,26 @@
       - Funcao de Apio
         - Treinamento
       - Funcao de Controle
-        - Formuláos
+      - Formuláos
       - Funcao de Gerenciamento
-        - Realização do objetivo do projeto
-      - Três pilares
+      - Realização do objetivo do projeto
+      - Três pilares
         - Pessoas  
         - Processos
-        - Técnologias
+      - Técnologias
  ## Tipos de Organizações
-      - é importante conhecer os tipos mais comuns de estruturas.
-      - Estrutura Funcional
-         - é a mais comun de estrutura cada funcionario tem um superior claro.
-      - Estrutura Projetizada 
-         - essa organizaço tem maior parte da equipe  orientaa a projetos eo gerente de projetos tem autonomia e autoriadade               total sobre a equipe
-      - Estrutura Matricial
-         - Essa estrutura tem de potencializar oque há de melhor em ambas as estruturas (Funcional ou Projetizada). Os membros da equipe se reportam a dois chefes.
-         - Estrutura forte e Estrtura Fraca.
- ## Ciclo de vida do Projeto
-      - Ciclo de vida do projeto muitas vezes também é chamado de metodologia.
-      - DEsigner -> Codigo -> Teste -> Inst. -> Delivery      
-      - Monitoramento e controle sempre esta sendo executado em todas as etapas.
- ## Ciclo de vida do produto
+    - é importante conhecer os tipos mais comuns de estruturas.
+    - Estrutura Funcional
+    - é a mais comun de estrutura cada funcionario tem um superior claro.
+    - Estrutura Projetizada 
+    - essa organizaço tem maior parte da equipe orientaa a projetos eo gerente de projetos tem autonomia e autoriadade total sobre a equipe
+    - Estrutura Matricial
+        - Essa estrutura tem de potencializar oque há de melhor em ambas as estruturas (Funcional ou Projetizada). Os membros da equipe se reportam a dois chefes.
+        - Estrutura forte e Estrtura Fraca.
+## Ciclo de vida do Projeto
+
+    - Ciclo de vida do projeto muitas vezes também é chamado de metodologia.
+    - DEsigner -> Codigo -> Teste -> Inst. -> Delivery      
+    - Monitoramento e controle sempre esta sendo executado em todas as etapas.
+## Ciclo de vida do produto
       - Tudo que envolve cada etapa.

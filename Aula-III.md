@@ -52,3 +52,19 @@
 - Garantir o término pontual do projeto
 - Garantir a estimativa adequada de duração das atividades do projeto
 - Criação e controle do cronograma do projeto.
+
+# Gerenciamento de Custo
+- Tudo que gira em torno dos custos.
+  - Planejar o Gerenciamento dos Custos
+  - Estimar os Custos
+  - Determinar o Orçamento
+  - Controlar os Custos.
+
+
+
+
+
+
+
+
+

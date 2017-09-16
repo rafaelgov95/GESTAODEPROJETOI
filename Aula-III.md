@@ -64,6 +64,8 @@
 - Assegurar que o projeto permaneça dentro do orçamento aprovado
 - Dependendo da complexidade do projeto, estes processos podem precisar do envolvimento de mais de uma pessoa.
 
+# Gerenciamento de Qualidade
+# Gerenciamento de 
 
 
 

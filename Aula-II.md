@@ -37,12 +37,12 @@
           
   ## O que é um Programa
        - Conjuntos de elementos e atividades realizam um objetivo.
-       - Para o gerenciamento de projetos, um programa é
+       - Para o gerenciamento de projetos, um programa é
        - Um grupo de projetos relacionados, subprogramas ou atividaes do projeto.
          - Progeto de Avalicao de Competências.
-         - Projeto de capacitação
+         - Projeto de capacitação
          - Projeto de clima organizacional
-         - Projeto de implementação de Plataforma EAD
+        - Projeto de implementação de Plataforma EAD
           
  ## O que é Prortfolio.
  

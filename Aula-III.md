@@ -47,3 +47,8 @@
   - Controlar o Escopo;
 - Delimitação
 - Entrar somente o solicitado.
+
+# Gerenciamento do Tempo do Projeto
+- Garantir o término pontual do projeto
+- Garantir a estimativa adequada de duração das atividades do projeto
+- Criação e controle do cronograma do projeto.

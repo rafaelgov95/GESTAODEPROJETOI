@@ -15,8 +15,9 @@
     - EDA - Estiar duração das Atividades
     - Ferramentas e Tecnicas
     - Estimativas de tres pontos
-      - A precisão das estmativas de duração de uma atividade pontual pode ser aperfeiçoada considerando-se. O seu grau incerteza e risco.
-      - PERT
+        - A precisão das estmativas de duração de uma atividade pontual pode ser aperfeiçoada considerando-se. O seu grau incerteza e risco.
+        - PERT
         - Mais provável(TM)
         - Otimista(TO)
         - Pessimista(tP)
+    

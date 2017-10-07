@@ -16,8 +16,15 @@
     - Ferramentas e Tecnicas
     - Estimativas de tres pontos
         - A precisão das estmativas de duração de uma atividade pontual pode ser aperfeiçoada considerando-se. O seu grau incerteza e risco.
-        - PERT
+        - PERT 
         - Mais provável(TM)
         - Otimista(TO)
-        - Pessimista(tP)
-    
+        - Pessimista(tP) 
+        - Ver os Calculos.
+    - Cronograma
+        -  Sete passoas para elaborar um cronograma
+        -  A Equipe de desenvolvimento fala o que ai 
+        -  O Gerente apenas delega
+        
+    - Marco 
+        - Marca o fim de um pacotes.

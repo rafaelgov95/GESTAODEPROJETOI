@@ -1,0 +1,143 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian]{babel}
+\usepackage{verbatim}	
+\usepackage{tikz}
+\usepackage{smartdiagram}
+\usetikzlibrary{arrows,shapes,positioning,shadows,trees}
+\tikzset{
+	basic/.style  = {draw, text width=4cm, drop shadow, font=\sffamily, rectangle},
+	root/.style   = {basic, rounded corners=2pt, thin, align=center,
+		fill=green!30},
+	level 2/.style = {basic, rounded corners=6pt, thin,align=center, fill=green!60, text width=8em},
+	level 3/.style = {basic, thin, align=left, fill=pink!60, text width=6.5em,minimum height=1em}
+}
+
+\title{Resenha - Work Breakdown Structure}
+\author{Rafael Gonçalves de  Oliveira Viana}
+
+\date{2º semestre de 2017}
+
+\begin{document}
+
+\maketitle
+ WBS - "\textit{Work Breakdown Structure}",também conhecida como EAP - "Estrutura Analítica de Projetos",  trata-se de uma técnica de representação gráfica que representa o projeto como um todo, assim EAP não é apenas uma ferramenta, ela tem o papel de gerenciamento do projeto na qual se aplica a subdivisão das entregas e do trabalho.
+ 
+Segundo definições do Guia PMBOK 5ªEdição, página 125;
+
+ \begin{quote}
+“WBS é o processo de subdivisão das entregas e do trabalho do projeto em componentes menores e de gerenciamento mais fácil."
+\end{quote}
+
+Ou sejá o processo  do desenvolvimento/evolução de um projeto deve ser tratado como um conjunto de subprojetos menores tornando assim esses mesmo mais fáceis de ser gerenciados, já que possuem escopos menores para ser alcançados.
+O trabalho planejado é contido dentro dos componentes de nível mais baixo da EAP, que são chamados de pacotes de trabalho.Um pacote de trabalho pode ser usado para agrupar as atividades onde o trabalho é agendado, tem seu custo estimado, monitorado e controlado. Para alcançar seus objetivos os dados são separados em Entradas, Ferramentas e Técnicas, Sáidas.
+
+\smartdiagramset{
+	module x sep=4.8,
+	back arrow distance=1.75,
+	text width=3.8cm,
+	back arrow disabled=true,
+	additions={
+		additional item width=4cm,
+		additional item offset=0.85cm,
+		additional item border color=red,
+		additional connections disabled=false,
+		additional arrow color=red,
+		additional arrow tip=stealth,
+		additional arrow line width=3pt,
+		additional arrow style=]-latex’,
+	}
+}
+
+
+\begin{center}
+	\smartdiagram[flow diagram:horizontal]{Entrada,Ferramenta e Técnicas, Saída}
+\end{center}
+\textbf{As entradas são divididas em;}
+
+	\begin{itemize}
+
+		\item Plano de gerenciamento do escopo.
+		
+		\item
+		Especificação do escopo do projeto.
+		
+		\item
+		Documentação dos requisitos.
+		
+		\item
+		Fatores ambientais da empresa.
+		
+		\item
+		Ativos de processos organizacionais.
+
+	\end{itemize}
+
+\textbf{As ferramentas e técnicas são divididas em;}
+	\begin{itemize}
+
+		\item
+		Decomposição e Opinião especializada.
+		
+		\end{itemize}
+
+
+\textbf{As saídas são divididas em;}
+	\begin{itemize}
+
+		\item
+		Linha de base do escopo.
+		
+		\item
+Atualizações nos documentos do projeto.
+
+	\end{itemize}
+
+Sua EAP pode ter tantos níveis quanto você quiser. Por uma questão visual e de impressão é razoável que cada nível não seja decomposto em mais do que 9 itens e cada página representade até 3 níveis no seu plano de projetos, mais do que isto fica difícil a visualização.
+
+Como exemplo será demostrado a construção de uma EAP de um equipamento IoT - \textit{Internet of Things} ou como é conhecida "Internet das Coisas", onde este possua sensores conectados, enviando informações sobre condições ambientais como estado do solo do ar e de iluminação, esses dados são encaminhados para um servidor onde são feito o tratamento/conversão dos dados em informações, que posteriormente serão recuperados por uma aplicação, está EAP resumida séria da seguinte maneira;
+
+\vspace{0.2cm}
+\begin{tikzpicture}[
+level 1/.style={sibling distance=40mm},
+edge from parent/.style={->,draw},
+>=latex]
+
+% root of the the initial tree, level 1
+\node[root] {What Flowers}
+% The first level, as children of the initial tree
+child {node[level 2] (c1) {Sistema GVR}}
+child {node[level 2] (c2) {Android}}
+child {node[level 2] (c3) {WF}};
+
+% The second level, relatively positioned nodes
+\begin{scope}[every node/.style={level 3}]
+\node [below of = c1, xshift=15pt] (c11) {Vendas};
+\node [below of = c11] (c12) {Estoque};
+\node [below of = c12] (c13) {Relatórios};
+
+\node [below of = c2, xshift=15pt] (c21) {Front};
+\node [below of = c21] (c22) {Banco};
+\node [below of = c22] (c23) {Conexao WF};
+\node [below of = c23] (c24) {Testes};
+
+\node [below of = c3, xshift=15	pt] (c31) {Desenvolvimento};
+\node [below of = c31] (c32) {Codificação};
+\node [below of = c32] (c33) {Cole. Imagens};
+\node [below of = c33] (c34) {Treinamento};
+\node [below of = c34] (c35) {Conexão};
+\end{scope}
+
+% lines from each level 1 node to every one of its "children"
+\foreach \value in {1,2,3}
+\draw[->] (c1.195) |- (c1\value.west);
+
+\foreach \value in {1,...,4}
+\draw[->] (c2.195) |- (c2\value.west);
+
+\foreach \value in {1,...,5}
+\draw[->] (c3.195) |- (c3\value.west);
+\end{tikzpicture}
+
+\end{document}

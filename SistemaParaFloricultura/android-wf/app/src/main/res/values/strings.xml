@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WF</string>
+    <string name="logar">Logar</string>
+    <string name="pick_image_message">Clique na imagem para escolher!</string>
+
+</resources>
